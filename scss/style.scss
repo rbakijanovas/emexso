@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&family=Josefin+Sans:wght@400;500;600;700&display=swap');
+ 
+ * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: josefin sans;
+ }
+
+ .image {
+  width: 200px;
+  height: 200px;
+  background: url(../assests/img1.png);
+  background-size: contain;
+ }
